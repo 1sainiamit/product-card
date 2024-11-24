@@ -1,0 +1,38 @@
+.container {
+  box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 325px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  padding-top: 15px;
+}
+
+.container button:hover {
+  opacity: 0.7;
+}
+
+.price {
+  font-size: 18px;
+  margin: 15px 0 0 15px;
+  text-align: start;
+  font-weight: 700;
+}
+
+.container p {
+  padding: 10px;
+  font-size: 16px;
+  line-height: 16px;
+  color: grey;
+}
+
+.features {
+  border: none;
+  outline: 0;
+  padding: 6px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
